@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F602BB4B-E892-4499-9B9D-F8A8D5C43942"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7808006-E551-4D52-89EF-3F33AA6FF5A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokemon/ViewModel/PokemonListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchPokemonList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7808006-E551-4D52-89EF-3F33AA6FF5A7 - 3978b569fab519b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Pokemon.PokemonListViewModel.fetchPokemonList() async throws -&gt; ()"
+                  moduleName = "Pokemon.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathan.punongbayan/Documents/GitHub/Example/Pokemon/Pokemon/ViewModel/PokemonListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+               <Location
+                  uuid = "A7808006-E551-4D52-89EF-3F33AA6FF5A7 - 3978b569fab519b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Pokemon.PokemonListViewModel.fetchPokemonList() async throws -&gt; ()"
+                  moduleName = "Pokemon.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathan.punongbayan/Documents/GitHub/Example/Pokemon/Pokemon/ViewModel/PokemonListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+               <Location
+                  uuid = "A7808006-E551-4D52-89EF-3F33AA6FF5A7 - f117b17ea68ffb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Pokemon.PokemonListViewModel.fetchPokemonList() async throws -&gt; ()"
+                  moduleName = "Pokemon.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathan.punongbayan/Documents/GitHub/Example/Pokemon/Pokemon/ViewModel/PokemonListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+               <Location
+                  uuid = "A7808006-E551-4D52-89EF-3F33AA6FF5A7 - f117b17ea68ffb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Pokemon.PokemonListViewModel.fetchPokemonList() async throws -&gt; ()"
+                  moduleName = "Pokemon.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonathan.punongbayan/Documents/GitHub/Example/Pokemon/Pokemon/ViewModel/PokemonListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
